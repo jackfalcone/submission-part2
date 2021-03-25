@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Arto Hellas",
+      "number": "+41 123 45 67"
+    },
+    {
+      "id": 2,
+      "name": "Hans Mueller",
+      "number": "+41 321 54 76"
+    },
+    {
+      "id": 3,
+      "name": "Alain Berset",
+      "number": "+41 414 14 41"
+    },
+    {
+      "name": "Test",
+      "number": "999",
+      "id": 4
+    }
+  ]
+}
